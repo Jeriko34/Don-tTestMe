@@ -10,3 +10,4 @@ for (int i = 0; i < N; i++) {
 }
 Console.WriteLine($"la cantidad de valores mayor igual a 1000 es : {contador}");
 Console.WriteLine("Chevere tu vaina 1");
+Console.WriteLine("Chevere tu vaina 2");
